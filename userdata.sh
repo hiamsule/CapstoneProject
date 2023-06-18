@@ -3,7 +3,7 @@ apt-get update -y
 apt-get install git -y
 apt-get install python3 -y
 cd /home/ubuntu/
-TOKEN=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
+TOKEN=Schreiben Sie hier Ihr eigenes aktuelles TOKEN.
 git clone https://$TOKEN@github.com/sulecan/CapstoneProjekt.git
 cd /home/ubuntu/CapstoneProjekt.git
 apt install python3-pip -y
